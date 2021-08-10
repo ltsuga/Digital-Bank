@@ -1,6 +1,6 @@
-package com.digitalbank.`class`.test
+package com.digitalbank.aula.test
 
-import com.digitalbank.`class`.Banco
+import com.digitalbank.aula.Banco
 
 fun main(){
     val digitalBank = Banco(nome= "Digital", numero = 12)

@@ -1,4 +1,4 @@
-package com.digitalbank.`class`
+package com.digitalbank.aula
 
 data class Banco(
     val nome: String,

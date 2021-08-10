@@ -1,6 +1,6 @@
-package com.digitalbank.`class`.test
+package com.digitalbank.aula.test
 
-import com.digitalbank.`class`.ClienteTipo
+import com.digitalbank.aula.ClienteTipo
 
 fun main(){
     ClienteTipo.values().forEach { elemento ->

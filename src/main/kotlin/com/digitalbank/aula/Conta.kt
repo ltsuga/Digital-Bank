@@ -1,4 +1,4 @@
-package com.digitalbank.`class`
+package com.digitalbank.aula
 
 import java.math.BigDecimal
 
@@ -7,11 +7,11 @@ class Conta(
     val numero: String,
     val saldo:BigDecimal
 ) {
-    fun deposito(valor:BigDecimal){
+  /*  fun deposito(valor:BigDecimal){
 
     }
     fun saque(valor:BigDecimal){
 
     }
-
+*/
 }
